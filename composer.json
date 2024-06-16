@@ -1,0 +1,15 @@
+{
+    "name": "Admin Dashboard",
+    "description": "Admin Dashboard made using Bootstrap",
+    "homepage": "coming soon",
+    "keywords": ["backend", "admin", "template", "theme", "web"],
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Emmanuel Gathu",
+            "email": "gathuimmanuel@gmail.com",
+            "homepage": "coming soon",
+            "role": "Developer"
+        }
+    ]
+}

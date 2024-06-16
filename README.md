@@ -5,10 +5,11 @@ I hope my code can be a foundation for a better project.
 
 # How It Works
 
-The program currently has 3 users :
+The program currently has 4 users :
 1. Accountant
 2. Administrator
 3. HR
+4. Secretary
 
 There is a "new_user_files_here" folder that you can use to add an extra user logic.
 
@@ -17,6 +18,7 @@ Each User has specific Functions;
 1. Accountant -  Incharge of the Finance Module.
 2. Administrator - Incharge of the Day Care Administrative Module.
 3. HR - Incharge of the Employee Management Module
+4. Secretary - Incharge of the Day Care Client Support Module.
 
 
 NB: I have included all the necessary files required.
